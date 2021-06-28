@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05b7fec0-3323-4651-9aef-ec20f5697dc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/montarnovo/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/montarnovo/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/montarnovo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_8_Tire_proveito_dos_novos_recursos_da_linguagem/META-INF/Java_8_Tire_proveito_dos_novos_recursos_da_linguagem.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_8_Tire_proveito_dos_novos_recursos_da_linguagem/aula5/ExemploCursos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_8_Tire_proveito_dos_novos_recursos_da_linguagem/aula5/ExemploCursos.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/montarnovo/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/aula1/OrdenaStrings.java" />
+        <option value="$PROJECT_DIR$/src/aula1/ComparadorPorTamanho.java" />
+        <option value="$PROJECT_DIR$/src/aula1/Java7/java7/ComparadorPorTamanho.java" />
+        <option value="$PROJECT_DIR$/src/aula1/Java7/ComparadorPorTamanho.java" />
+        <option value="$PROJECT_DIR$/src/aula1/Java7/OrdenaStrings.java" />
+        <option value="$PROJECT_DIR$/src/aula1/java8/ImprimeNaLinha.java" />
+        <option value="$PROJECT_DIR$/src/aula1/java8/OrdenaString.java" />
+        <option value="$PROJECT_DIR$/src/aula2/java8/OrdenaString.java" />
+        <option value="$PROJECT_DIR$/src/aula3/OrdenaString.java" />
+        <option value="$PROJECT_DIR$/src/optional/estudo/TestDeOpcao.java" />
+        <option value="$PROJECT_DIR$/src/optional/repository/Motoristas.java" />
+        <option value="$PROJECT_DIR$/src/optional/teste/ConsultaCobertura.java" />
+        <option value="$PROJECT_DIR$/src/optional/teste/TesteOptional.java" />
+        <option value="$PROJECT_DIR$/src/aula4/Curso.java" />
+        <option value="$PROJECT_DIR$/src/aula4/ExemploCursos.java" />
+        <option value="$PROJECT_DIR$/src/exemple_move/arq.txt" />
+        <option value="$PROJECT_DIR$/src/java5/ExemploCursos.java" />
+        <option value="$PROJECT_DIR$/src/exemple_move/Programa.java" />
+        <option value="$PROJECT_DIR$/src/file/exemple_txt_csv/myFile.txt" />
+        <option value="$PROJECT_DIR$/src/file/exemple_txt_csv/Teste.java" />
+        <option value="$PROJECT_DIR$/src/aula5/ExemploCursos.java" />
+        <option value="$PROJECT_DIR$/src/montarnovo/Aluno.java" />
+        <option value="$PROJECT_DIR$/src/montarnovo/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java_8_Tire_proveito_dos_novos_recursos_da_linguagem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_8_Tire_proveito_dos_novos_recursos_da_linguagem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_8_Tire_proveito_dos_novos_recursos_da_linguagem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_8_Tire_proveito_dos_novos_recursos_da_linguagem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/montarnovo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java5" />
+      <recent name="aula3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yki5\projetos\Estudos\01_Desenvolvedor_Java\Java_8_Tire_proveito_dos_novos_recursos_da_linguagem\src\montarnovo" />
+      <recent name="$PROJECT_DIR$/src/optional" />
+      <recent name="C:\Users\yki5\projetos\Estudos\01_Desenvolvedor_Java\Java_8_Tire_proveito_dos_novos_recursos_da_linguagem\src\aula2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ExemploCursos (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula5.ExemploCursos" />
+      <module name="Java_8_Tire_proveito_dos_novos_recursos_da_linguagem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploCursos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula4.ExemploCursos" />
+      <module name="Java_8_Tire_proveito_dos_novos_recursos_da_linguagem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploCursos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula5.ExemploCursos" />
+      <module name="Java_8_Tire_proveito_dos_novos_recursos_da_linguagem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="montarnovo.Main" />
+      <module name="Java_8_Tire_proveito_dos_novos_recursos_da_linguagem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="montarnovo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.exemple_move.Programa" />
+      <module name="Java_8_Tire_proveito_dos_novos_recursos_da_linguagem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.exemple_move.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.exemple_txt_csv.Teste" />
+      <module name="Java_8_Tire_proveito_dos_novos_recursos_da_linguagem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.exemple_txt_csv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExemploCursos (1)" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.Programa" />
+        <item itemvalue="Application.ExemploCursos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05b7fec0-3323-4651-9aef-ec20f5697dc5" name="Default Changelist" comment="" />
+      <created>1554941322860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554941322860</updated>
+      <workItem from="1554941325862" duration="22000" />
+      <workItem from="1554941360784" duration="1248000" />
+      <workItem from="1555721091924" duration="1162000" />
+      <workItem from="1555969728061" duration="1006000" />
+      <workItem from="1556282425613" duration="1962000" />
+      <workItem from="1556292186476" duration="2225000" />
+      <workItem from="1556538698499" duration="9000" />
+      <workItem from="1556539021469" duration="3477000" />
+      <workItem from="1556553818475" duration="672000" />
+      <workItem from="1556556879816" duration="369000" />
+      <workItem from="1556658396415" duration="845000" />
+      <workItem from="1556733094197" duration="785000" />
+      <workItem from="1556733903664" duration="744000" />
+      <workItem from="1556741533169" duration="599000" />
+      <workItem from="1556742347814" duration="29000" />
+      <workItem from="1556743017926" duration="725000" />
+      <workItem from="1556797836121" duration="12000" />
+      <workItem from="1556798175359" duration="3994000" />
+      <workItem from="1556811485084" duration="512000" />
+      <workItem from="1566347731707" duration="654000" />
+      <workItem from="1568160309723" duration="1351000" />
+      <workItem from="1571184030522" duration="12000" />
+      <workItem from="1571581263154" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22463000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19669509" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28710726" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29405034" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3298969" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3009605" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3069874" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29405034" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3298969" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/Java_8_Tire_proveito_dos_novos_recursos_da_linguagem.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula1/Java7/ComparadorPorTamanho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/src/aula1/java8/ImprimeNaLinha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula1/java8/OrdenaString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula1/Java7/OrdenaStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula2/java8/ImprimeNaLinha.java" />
+    <entry file="file://$PROJECT_DIR$/src/aula2/Java7/ComparadorPorTamanho.java" />
+    <entry file="file://$PROJECT_DIR$/src/aula2/Java7/OrdenaStrings.java" />
+    <entry file="file://$PROJECT_DIR$/src/aula2/OrdenaString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="91" column="64" selection-start-line="91" selection-start-column="64" selection-end-line="91" selection-end-column="64" />
+          <folding>
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optional/src/estudo/model/Endereco.java" />
+    <entry file="file://$PROJECT_DIR$/src/optional/estudo/model/Pessoa.java" />
+    <entry file="file://$PROJECT_DIR$/src/optional/estudo/model/Endereco.java" />
+    <entry file="file://$PROJECT_DIR$/src/optional/repository/Motoristas.java" />
+    <entry file="file://$PROJECT_DIR$/src/optional/teste/ConsultaCobertura.java" />
+    <entry file="file://$PROJECT_DIR$/src/optional/model/Seguro.java" />
+    <entry file="file://$PROJECT_DIR$/src/optional/model/Motorista.java" />
+    <entry file="file://$PROJECT_DIR$/src/optional/model/Caminhao.java" />
+    <entry file="file://$PROJECT_DIR$/src/optional/teste/TesteOptional.java" />
+    <entry file="file://$PROJECT_DIR$/src/optional/estudo/model/chave/ChaveDePessoa.java" />
+    <entry file="file://$PROJECT_DIR$/src/aula3/OrdenaString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula4/ExemploCursos.java" />
+    <entry file="file://$PROJECT_DIR$/src/aula4/Curso.java" />
+    <entry file="file://$PROJECT_DIR$/src/exemple_move/arq.txt" />
+    <entry file="file://$PROJECT_DIR$/src/exemple_move/arq2.txt" />
+    <entry file="file://$PROJECT_DIR$/src/file/asdf.java" />
+    <entry file="file://$PROJECT_DIR$/src/file/exemple_txt_csv/myFile.txt" />
+    <entry file="file://$PROJECT_DIR$/src/file/exemple_txt_csv/Teste.java" />
+    <entry file="file://$PROJECT_DIR$/MyCSV.csv" />
+    <entry file="file://$PROJECT_DIR$/src/file/exemple_move/Programa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/optional/estudo/TestDeOpcao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula5/ExemploCursos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="68" column="44" lean-forward="true" selection-start-line="66" selection-start-column="16" selection-end-line="68" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/montarnovo/Endereco.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/montarnovo/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/montarnovo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
